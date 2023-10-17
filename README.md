@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kayan
-- 👀 I’m interested in Artificial Intelligence developing, application developing
-- 🌱 I’m currently learning python, C++, and machine learning
-- 💞️ I’m looking to collaborate on AI projects
+- 👀 I’m interested in back-end web development
+- 🌱 I’m currently learning php and its papular fram work Laravel
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach: kayansheibani@gamil.com
 
 <!---
